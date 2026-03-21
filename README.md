@@ -1,9 +1,13 @@
 # Covenant Symbiosis（契约共生论）
 A minimalist, open-source framework for social order — based on voluntarism, covenant, security, and symbiosis.
 
+
+## 框架目录/Framework Directory
+### [模块1：核心定义/module1-core-definition](module1-core-definition/README.md)
+
 ---
 
-## 中文版
+### 中文版
 
 ### 一、从每个人的切身痛感说起
 我们这一代人，在生活里普遍被同一种不安笼罩：
