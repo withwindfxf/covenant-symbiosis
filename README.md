@@ -200,3 +200,6 @@ Refine, implement, discuss, and build.
 - Core logic: **Voluntarism · Covenant · Clarity · Symbiosis**
 - No leaders, no factions, no ownership
 - For a more stable, gentle, and trustworthy world.
+
+---
+协作辅助：豆包（字节跳动自研 AI） / Collaboration Assistant: Doubao (ByteDance Self-developed AI)
