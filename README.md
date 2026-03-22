@@ -6,6 +6,11 @@ A minimalist, open-source framework for social order — based on voluntarism, c
 ### [模块1：核心定义/module1-core-definition](module1-core-definition/README.md)
 
 ---
+### 项目迭代说明 / Project Iteration Note
+本项目处于持续的思想迭代中，代码/设计会随认知更新调整，核心是探索**基于共生契约论四大核心支柱（自由意志、权责统一、契约边界、平等共生）的「自愿为起点、契约明权责、共生为归宿」的协作与相处模式** 方向的可能性——我们不追求一蹴而就的完美框架，而是以开放、迭代的姿态，在实践中打磨适配不同场景的共生契约解决方案，让“减少内耗、共生共赢”的核心思想真正落地。
+
+This project is in a continuous process of ideological iteration, and the code/design will be adjusted with the update of cognition. Its core is to explore the possibilities of **collaboration and interaction models based on the four core pillars of Symbiotic Contract Theory (Free Will, Unity of Rights and Responsibilities, Contract Boundaries, Equal Symbiosis), which take "voluntariness as the starting point, contracts to clarify rights and responsibilities, and symbiosis as the destination"** — we do not pursue a perfect framework achieved overnight, but adopt an open and iterative attitude to polish symbiotic contract solutions adapted to different scenarios in practice, so that the core idea of "reducing internal friction and achieving symbiosis and win-win results" can be truly implemented.
+---
 
 ### 中文版
 
