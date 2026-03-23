@@ -233,15 +233,15 @@ Communicate with key relationship partners once a month about your feelings rega
 
 1. 自我和解：接受自己的欲望、边界、不完美，不再内耗；
 
-1. Self-reconciliation: Accept your desires, boundaries, and imperfections, and eliminate internal friction;
+   Self-reconciliation: Accept your desires, boundaries, and imperfections, and eliminate internal friction;
 
 2. 自我掌控：所有选择基于「我愿意」，而非「我不得不」；
 
-2. Self-control: All choices are based on "I am willing" rather than "I have to";
+  Self-control: All choices are based on "I am willing" rather than "I have to";
 
 3. 自我延续：以完整的自我与世界共生，既不掠夺他人，也不委屈自己。
 
-3. Self-continuation: Coexist with the world as a complete self, neither plundering others nor wronging yourself.
+  Self-continuation: Coexist with the world as a complete self, neither plundering others nor wronging yourself.
 
 #### 最终契约（可落地的自我承诺）
 
@@ -323,15 +323,15 @@ Communicate with key relationship partners once a month about your feelings rega
 
 1. 本模块以「选择使用」为起点，通过四大核心理念的**可落地工具**，完成从“被动接受”到“主动掌控”的自我再教育；
 
-1. Starting with "voluntary adoption", this module completes self-re-education from "passive acceptance" to "active control" through the **practical, implementable tools** of the four core concepts;
+  Starting with "voluntary adoption", this module completes self-re-education from "passive acceptance" to "active control" through the **practical, implementable tools** of the four core concepts;
 
 2. 核心逻辑是「始于自我意志，终于自我共生」，所有动作围绕“激活自由意志、确认主体地位”展开；
 
-2. The core logic is "starting with free will and ending with self-symbiosis", with all actions centered on "activating free will and confirming subjective status";
+  The core logic is "starting with free will and ending with self-symbiosis", with all actions centered on "activating free will and confirming subjective status";
 
 3. 落地的关键是「小步迭代、正向强化」——每一次清单填写、每一次边界坚守，都是对“我与自由意志”契约的强化，最终实现完全觉醒。
 
-3. The key to implementation is "small-step iteration and positive reinforcement" — every time you fill out a list or uphold a boundary, it strengthens the contract between "oneself and free will", ultimately achieving complete awakening.
+  The key to implementation is "small-step iteration and positive reinforcement" — every time you fill out a list or uphold a boundary, it strengthens the contract between "oneself and free will", ultimately achieving complete awakening.
 
 
 ---
