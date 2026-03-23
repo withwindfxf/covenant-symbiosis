@@ -5,6 +5,8 @@ A minimalist, open-source framework for social order — based on voluntarism, c
 ## 框架目录/Framework Directory
 ### [模块1：核心定义/module1-core-definition](module1-core-definition/README.md)
 ### [模块2：核心定位/module2-core-principles](module2-core-principles/README.md)
+### [模块3：核心解决方案/module2-core-principles](module3-core-solution/README.md)
+### [我们应对这世界的方式/our_solution_of_this_world](module3-core-solution/our_solution_of_this_world.md)
 
 ---
 ### 项目迭代说明 / Project Iteration Note
