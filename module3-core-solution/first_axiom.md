@@ -1,7 +1,7 @@
 
 ### 契约共生论·第一公理
 ### Axiom 1 of the Contractual Symbiosis Theory
-
+---
 人首先要与自身达成完整共生，与自己的身体签订第一份、也是终极的共生契约——这是所有外在契约、社会共生的根基与前提，是个体实现自由意志、权责统一的核心起点。
 
 身体不是可被支配、可被透支的工具，而是与精神平等共生、共同构成“自我”的核心伙伴；精神的自由意志，必须以尊重身体的生理边界为底线，不得用意志僭越肉身的承受极限，不得将身体作为情绪宣泄、生存压榨的载体。
@@ -13,7 +13,7 @@ A person must first achieve complete symbiosis with themselves and sign the firs
 The body is not a disposable or exploitable tool, but a core partner that coexists equally with the spirit and jointly constitutes the "self"; the free will of the spirit must be based on respecting the physiological boundaries of the body, and must not use will to overstep the physical limit of the body, nor use the body as a carrier for emotional catharsis or survival exploitation.
 
 When formulating this symbiotic contract with the body, we need to practice the core principles of the Contractual Symbiosis Theory:
-
+---
 1.  自由意志：尊重身体的真实信号，不强迫、不控制，让身体的需求（休息、舒展、修复）与精神的追求（成长、创造、价值）达成自主平衡，拒绝“精神绑架身体”的对抗式关系；
    Free Will: Respect the true signals of the body, do not force or control it, achieve an autonomous balance between the body's needs (rest, relaxation, repair) and the spirit's pursuits (growth, creation, value), and reject the confrontational relationship of "spirit kidnapping the body";
 
@@ -41,8 +41,11 @@ When the reality forces us to sacrifice our physical health to accomplish someth
 4.  建立风险预警：提前评估牺牲的代价与身体的承受极限，制定止损方案，明确“不可逾越的身体底线”，一旦触及底线，无论事情进展如何，优先守护身体，避免陷入“自我伤害的闭环”。
    Establish a risk early warning: Evaluate the cost of sacrifice and the physical bearing limit in advance, formulate a stop-loss plan, clarify the "insurmountable physical bottom line", and once the bottom line is touched, prioritize protecting the body regardless of the progress of the matter, so as to avoid falling into a "closed loop of self-harm".
 
+---
+
 这份与身体的共生契约，是个体成人的第一标志，也是契约共生论最基础、最不可动摇的公理——唯有先与自己的身体和平共生，才能真正实现与他人、与世界的平等共生，才能在追求价值的同时，守住生命的根基。
-    This symbiotic contract with the body is the first symbol of an individual's adulthood, and also the most basic and unshakable axiom of the Contractual Symbiosis Theory — only by first achieving peaceful symbiosis with one's own body can we truly achieve equal symbiosis with others and the world, and can we pursue value while guarding the foundation of life.
+
+   This symbiotic contract with the body is the first symbol of an individual's adulthood, and also the most basic and unshakable axiom of the Contractual Symbiosis Theory — only by first achieving peaceful symbiosis with one's own body can we truly achieve equal symbiosis with others and the world, and can we pursue value while guarding the foundation of life.
 
 ---
 
