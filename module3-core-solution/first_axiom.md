@@ -42,7 +42,7 @@ When the reality forces us to sacrifice our physical health to accomplish someth
    Establish a risk early warning: Evaluate the cost of sacrifice and the physical bearing limit in advance, formulate a stop-loss plan, clarify the "insurmountable physical bottom line", and once the bottom line is touched, prioritize protecting the body regardless of the progress of the matter, so as to avoid falling into a "closed loop of self-harm".
 
 这份与身体的共生契约，是个体成人的第一标志，也是契约共生论最基础、最不可动摇的公理——唯有先与自己的身体和平共生，才能真正实现与他人、与世界的平等共生，才能在追求价值的同时，守住生命的根基。
-This symbiotic contract with the body is the first symbol of an individual's adulthood, and also the most basic and unshakable axiom of the Contractual Symbiosis Theory — only by first achieving peaceful symbiosis with one's own body can we truly achieve equal symbiosis with others and the world, and can we pursue value while guarding the foundation of life.
+    This symbiotic contract with the body is the first symbol of an individual's adulthood, and also the most basic and unshakable axiom of the Contractual Symbiosis Theory — only by first achieving peaceful symbiosis with one's own body can we truly achieve equal symbiosis with others and the world, and can we pursue value while guarding the foundation of life.
 
 ---
 
