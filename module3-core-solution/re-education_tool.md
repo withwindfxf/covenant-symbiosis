@@ -277,3 +277,6 @@ The core significance of teenagers voluntarily using this tool is not to "deny c
 
 在以此工具使用分析期间，使用者可能会对于“权责厘清，底线设置，共生走向”没有那么明确的概念或者无法清晰的完成，则可由AI/第三方为使用者进行分析，使用者仅提出想法与条件，基于本工具得出代价后，再终于自由意志自行判断是否进入下一步。
 During the analysis using this tool, users may not have a clear concept of "clarifying rights and responsibilities, setting bottom lines, and the direction of symbiosis" or may not be able to complete the analysis clearly. In such cases, AI/third parties can analyze for the user—the user only needs to put forward their thoughts and conditions. After deriving the price based on this tool, the user ultimately makes an independent judgment on whether to proceed to the next step through their free will.
+
+---
+协作辅助：豆包（字节跳动自研 AI） / Collaboration Assistant: Doubao (ByteDance Self-developed AI)
