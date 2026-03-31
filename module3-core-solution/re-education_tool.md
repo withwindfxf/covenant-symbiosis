@@ -1,6 +1,6 @@
-# 契约共生论·再教育工具
+# 再教育工具
 
-# Theory of Contractual Symbiosis · Re-education Tool
+# Re-education Tool
 
 本着“契约共生论”自身不强求使用，不设想结果，不评价选择的底层理念，该论述仅作工具式使用说明。
 In line with the underlying philosophy of the "Theory of Contractual Symbiosis" itself—no forced usage, no presupposed outcomes, and no evaluation of choices—this exposition serves solely as an instrumental user guide.
