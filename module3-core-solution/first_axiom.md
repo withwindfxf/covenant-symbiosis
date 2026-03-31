@@ -6,11 +6,15 @@
 
 身体不是可被支配、可被透支的工具，而是与精神平等共生、共同构成“自我”的核心伙伴；精神的自由意志，必须以尊重身体的生理边界为底线，不得用意志僭越肉身的承受极限，不得将身体作为情绪宣泄、生存压榨的载体。
 
+对不同性别而言，这一共生尤其包含对各自先天生理结构、生命周期节律、生育能力窗口及身心运行节奏的正视、顺应与善待，拒绝以统一标准无视或透支任一性别的身体禀赋与时间特性。
+
 制定这份与身体的共生契约时，需践行契约共生论的核心原则：
 
 A person must first achieve complete symbiosis with themselves and sign the first and ultimate symbiotic contract with their own body — this is the foundation and premise of all external contracts and social symbiosis, and the core starting point for an individual to realize free will and the unity of rights and responsibilities.
 
 The body is not a disposable or exploitable tool, but a core partner that coexists equally with the spirit and jointly constitutes the "self"; the free will of the spirit must be based on respecting the physiological boundaries of the body, and must not use will to overstep the physical limit of the body, nor use the body as a carrier for emotional catharsis or survival exploitation.
+
+For different genders, this symbiosis particularly entails acknowledging, conforming to, and treating with kindness their inherent physiological structures, life-cycle rhythms, fertility windows, as well as physical and mental operational cadences, while eschewing the imposition of a uniform standard that neglects or overdraws on the physical endowments and temporal traits of either gender.
 
 When formulating this symbiotic contract with the body, we need to practice the core principles of the Contractual Symbiosis Theory:
 ---
