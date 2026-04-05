@@ -8,6 +8,9 @@ A minimalist, open-source framework for social order — based on voluntarism, c
 ### [模块3：核心解决方案/module3-core-solution](module3-core-solution/README.md)
 - ### [第一公理/first_axiom](module3-core-solution/first_axiom.md)
 - ### [再教育工具/re-education_tool](module3-core-solution/re-education_tool.md)
+- ### [基础伦理/Basic Ethics](module3-core-solution/basic_ethics.md)
+- ### [亲子关系/Parent-Child Relationship](module3-core-solution/parent-child_relationship.md)
+- ### [费米悖论/fermi_paradox](module3-core-solution/fermi_paradox.md)
 - ### [我们应对这世界的方式/our_solution_of_this_world](module3-core-solution/our_solution_of_this_world.md)
 
 
